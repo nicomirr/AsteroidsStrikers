@@ -13,6 +13,10 @@ How long will you survive? What will be your highest score?
 - **Nicolas Mironoff** - *Programming and art*
 - **Freesound community** - *Audio*
 
+## Technologies used
+- SFML
+- C#
+
 ## Links
 
 Download it from itch.io: https://nicomironoff.itch.io/asteroids
