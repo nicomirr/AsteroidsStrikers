@@ -17,6 +17,12 @@ How long will you survive? What will be your highest score?
 - SFML
 - C#
 
+## Programming features
+- Custom-built collisions
+- Object pooling
+- Custom-built saving system for high scores
+- Custom-built animations controller
+
 ## Links
 
 Download it from itch.io: https://nicomironoff.itch.io/asteroids
